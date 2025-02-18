@@ -1,70 +1,95 @@
-# Getting Started with Create React App
+<div align="center">
+  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <div>
+  <h3>Home Page</h3>
+    <img src="./sample-images/hoo-home.png" alt="Home Page">
+  <h3>Features</h3>
+      <img src="./sample-images/hoo-features.png" alt="Features">
+  <h3>Product</h3>
+      <img src="./sample-images/hoo-product.png" alt="Product">
+  <h3>Clients</h3>
+      <img src="./sample-images/clients-hoo.png" alt="Clients">
+  </div>
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+  <div>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js" />
+    <img src="https://img.shields.io/badge/TailwindCSS-%2323256b?style=for-the-badge" alt="TailwindCSS" />
+  </div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  <h3 align="center">HooBank</h3>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+   
+</div>
 
-### `npm test`
+## 📋 <a name="table">Table of Contents</a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## <a name="introduction">🤖 Introduction</a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+HooBank is a static web application built using [React.js](https://react.dev/) and [TailwindCSS](https://tailwindcss.com/). It's a modern based UI for user. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- React.Js
+- TailwindCSS
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## <a name="features">🔋 Features</a>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Features of HooBank
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Easily navigation through navbar to your desire section**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Responsive web application, easy to open in phone broweser too.**
 
-### Code Splitting
+**Reusable Components:- You can use many times as your desire**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## <a name="quick-start">🤸 Quick Start</a>
 
-### Making a Progressive Web App
+Follow these steps to set up the project locally on your machine.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**Prerequisites**
 
-### Advanced Configuration
+Make sure you have the following installed on your machine:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
 
-### Deployment
+**Cloning the Repository**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```bash
+git clone https://github.com/Sahil-2703/hoobank.git
+cd hoobank
+```
 
-### `npm run build` fails to minify
+**Installation**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Project**
+
+```bash
+npm start
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
+You can visit here to see before cloning [HooBank](https://hoobank-lilac-theta.vercel.app/).
+
